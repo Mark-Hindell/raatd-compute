@@ -7,14 +7,15 @@
 
 todo
 
-- link to raad
-- attach volume
-- establish user home
+- [ ] install loot
+- [ ] link to raad
+- [ ] attach volume
+- [ ] establish user home
 
 user accounts
-- wait until home volume established
-- login as admin
-- sudo adduser username ## follow the prompts
+- [ ] wait until home volume established
+- [ ] login as admin
+- [ ] sudo adduser username ## follow the prompts
 
 ## install
 
