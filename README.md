@@ -10,4 +10,7 @@ todo
 - link to raad
 - attach volume
 - establish user home
-- user accounts
+
+user accounts
+- wait until home volume established
+
