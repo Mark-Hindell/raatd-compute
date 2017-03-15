@@ -1,8 +1,8 @@
 # raatd-compute
 
-- increased allocation
-- also requested more Volume 
-- launched xx-large in local node
+- [x] increased allocation
+- [ ] also requested more Volume 
+- [x] launched xx-large in local node
 
 
 todo
