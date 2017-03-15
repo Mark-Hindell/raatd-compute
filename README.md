@@ -13,4 +13,8 @@ todo
 
 user accounts
 - wait until home volume established
+- login as admin
+- sudo adduser username ## follow the prompts
+
+
 
